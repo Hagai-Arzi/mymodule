@@ -1,0 +1,2 @@
+# mymodule
+submodules test
